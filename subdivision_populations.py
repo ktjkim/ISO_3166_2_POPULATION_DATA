@@ -97,12 +97,109 @@ population['AD-04'] = 10174
 population['AD-05'] = 4942
 population['AD-06'] = 9375
 
-# UAE (2018)
-# 
-population['AE-AZ'] = 
-population['AE-AJ'] = 
-population['AE-FU'] = 
-population['AE-SH'] = 
-population['AE-DU'] = 
-population['AE-RK'] = 
-population['AE-UQ'] = 
+# UAE
+# https://u.ae/en/about-the-uae/the-seven-emirates/
+# MUST EDIT: 'AE-X01~', 'AE-X02~'
+population['AE-AZ'] = 2908173
+population['AE-AJ'] = 262186
+population['AE-FU'] = 256256
+population['AE-SH'] = 1171097
+population['AE-DU'] = 3403906
+population['AE-RK'] = 345000
+population['AE-UQ'] = 49159
+
+# Argentina (2010)
+# https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-135
+population['AR-Z'] = 273964
+population['AR-V'] = 127205 
+population['AR-J'] = 681055
+population['AR-U'] = 509108
+population['AR-M'] = 1738929
+population['AR-Q'] = 551266
+population['AR-B'] = 15625084
+population['AR-L'] = 318951
+population['AR-R'] = 638645
+population['AR-D'] = 432310
+population['AR-X'] = 3308876
+population['AR-K'] = 367828
+population['AR-Y'] = 673307
+population['AR-F'] = 333642
+population['AR-A'] = 1214441
+population['AR-G'] = 874006
+population['AR-T'] = 1448188
+population['AR-H'] = 1055259
+population['AR-P'] = 530162
+population['AR-W'] = 992595
+population['AR-E'] = 1235994
+population['AR-S'] = 3194537
+population['AR-N'] = 1101593
+population['AR-C'] = 2890151
+
+# Armenia (2019)
+# https://www.armstat.am/file/article/nasel_01.10.2019.pdf
+population['AM-AG'] = 124400
+population['AM-AV'] = 263400
+population['AM-SH'] = 230800
+population['AM-TV'] = 121100
+population['AM-AR'] = 256200
+population['AM-GR'] = 227200
+population['AM-KT'] = 251200
+population['AM-LO'] = 213500
+population['AM-ER'] = 1083600
+population['AM-SU'] = 137400
+population['AM-VD'] = 48700
+
+# American Samoa
+# 'AS-X01~',
+#  'AS-X02~',
+#  'AS-X03~',
+#  'AS-X04~',
+#  'AS-X05~',
+
+# Antarctica
+# 'AQ-X01~',
+ 'AQ-X02~',
+  
+# Australia
+  'AU-X04~',
+   'AU-X03~',
+ 'AU-X02~',
+ 'AU-NT',
+ 'AU-WA',
+ 'AU-ACT',
+ 'AU-NSW',
+ 'AU-SA',
+ 'AU-VIC',
+ 'AU-QLD',
+ 'AU-NSW',
+ 'AU-TAS']
+
+# French Southern Territories 
+ 'TF-X01~',
+ 'TF-X02~',
+ 'TF-X1~',
+ 'TF-X03~',
+
+# Antigua and Barbuda
+  'AG-10',
+ 'AG-11',
+ 'AG-03',
+ 'AG-07',
+ 'AG-08',
+ 'AG-06',
+ 'AG-05',
+ 'AG-04',
+
+# Austria (2019)
+# http://www.statistik.at/web_en/statistics/PeopleSociety/population/population_censuses_register_based_census_register_based_labour_market_statistics/totaL_population/index.html
+population['AT-8'] = 396782
+population['AT-1'] = 294389
+population['AT-6'] = 1246034
+population['AT-2'] = 561406
+population['AT-4'] = 1489365
+population['AT-5'] = 557780
+population['AT-7'] = 756720
+population['AT-3'] = 1683800
+population['AT-9'] = 1908104
+
+# Azerbaijan
