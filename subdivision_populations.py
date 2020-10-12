@@ -160,19 +160,17 @@ population['AM-VD'] = 48700
 # 'AQ-X01~',
  'AQ-X02~',
   
-# Australia
-  'AU-X04~',
-   'AU-X03~',
- 'AU-X02~',
- 'AU-NT',
- 'AU-WA',
- 'AU-ACT',
- 'AU-NSW',
- 'AU-SA',
- 'AU-VIC',
- 'AU-QLD',
- 'AU-NSW',
- 'AU-TAS']
+# Australia (2019)
+# AU-X04~, AU-X03~, AU-X02~ other territories estimate 4643
+# https://www.abs.gov.au/statistics/people/population/regional-population/latest-release
+population['AU-NT'] = 245929
+population['AU-WA'] = 2621509
+population['AU-ACT'] = 426704
+population['AU-NSW'] = 8089817
+population['AU-SA'] = 1751963
+population['AU-VIC'] = 6596039
+population['AU-QLD'] = 5094510
+population['AU-TAS'] = 534457
 
 # French Southern Territories 
  'TF-X01~',
@@ -180,15 +178,16 @@ population['AM-VD'] = 48700
  'TF-X1~',
  'TF-X03~',
 
-# Antigua and Barbuda
-  'AG-10',
- 'AG-11',
- 'AG-03',
- 'AG-07',
- 'AG-08',
- 'AG-06',
- 'AG-05',
- 'AG-04',
+# Antigua and Barbuda (2011)
+# https://redatam.org/binatg/RpWebEngine.exe/Portal?BASE=ATGPHC2011&lang=ENG
+population['AG-10'] = 
+population['AG-11'] = 
+population['AG-03'] = 
+population['AG-07'] = 
+population['AG-08'] = 
+population['AG-06'] = 
+population['AG-05'] = 
+population['AG-04'] = 
 
 # Austria (2019)
 # http://www.statistik.at/web_en/statistics/PeopleSociety/population/population_censuses_register_based_census_register_based_labour_market_statistics/totaL_population/index.html
