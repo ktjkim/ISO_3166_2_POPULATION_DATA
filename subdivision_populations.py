@@ -1,3 +1,8 @@
+"""
+As of October 12th, 2020 (1AM), Aruba, Afghanistan, Andorra are complete.
+Angola, Anguilla need statistics web pages. 
+Albania and Åland Islands require further verification and data cleaning. 
+"""
 from subdivision_names import names
 
 population = dict.fromkeys(names, None)
@@ -80,6 +85,7 @@ population['AX-X13~'] = 88
 population['AX-X14~'] = 314
 population['AX-X15~'] = 445
 population['AX-X16~'] = 232
+# MUST EDIT: 
 
 # Andorra (2019)
 # https://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=4&codi_tema=2&codi_divisio=2162&codi_subtemes=8
@@ -91,3 +97,12 @@ population['AD-04'] = 10174
 population['AD-05'] = 4942
 population['AD-06'] = 9375
 
+# UAE (2018)
+# 
+population['AE-AZ'] = 
+population['AE-AJ'] = 
+population['AE-FU'] = 
+population['AE-SH'] = 
+population['AE-DU'] = 
+population['AE-RK'] = 
+population['AE-UQ'] = 
